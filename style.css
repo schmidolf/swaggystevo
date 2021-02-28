@@ -1,0 +1,29 @@
+body {
+	font-family:perpetua;
+	background-image:url(space.gif);
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1 {
+	color:#E5E4E2;
+	font-size:40px;
+	text-align:center;
+
+}
+p {
+	font-size:150%;
+	color:#E5E4E2
+}
+a:link, a:visited {
+	color:#E5E4E2;
+	
+	text-decoration: none;
+	text-align: center;
+	padding: 2px 7px;
+	display: inline-block
+}
+a:hover, a:active {
+	
+	text-decoration: underline;
+}
